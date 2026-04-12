@@ -29,6 +29,7 @@ I wanted to practice core Java concepts like OOP and data handling by building a
 ## How to Run
 
 javac StudentGradeTracker.java
+
 java StudentGradeTracker
 
 ## What I Learned
